@@ -1,5 +1,3 @@
-
-
 # Frontend Mentor - Results summary component solution
 
 This is a solution to the [Result-summary-component-main](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -38,5 +36,4 @@ Users should be able to:
 - Website - [Ernest](https://64a87f9d51861f11cd3a223f--rad-florentine-15e2bf.netlify.app/)
 - Frontend Mentor - [@Ernestsomto](https://www.frontendmentor.io/profile/Ernestsomto)
 - Twitter - [@LeronErnest](https://www.twitter.com/Leronernest)
-
 
